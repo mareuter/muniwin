@@ -1,0 +1,1 @@
+docker build --force-rm --build-arg version=2.1.27 -t mareuter/muniwin .
